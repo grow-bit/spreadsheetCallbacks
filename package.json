@@ -1,0 +1,30 @@
+{
+  "name": "spreadsheetcallbacks",
+  "version": "1.0.0",
+  "description": "Google Script macros looking for oracling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grow-bit/spreadsheetCallbacks.git"
+  },
+  "keywords": [
+    "oracles",
+    "google",
+    "spreadsheet",
+    "google",
+    "script"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grow-bit/spreadsheetCallbacks/issues"
+  },
+  "homepage": "https://github.com/grow-bit/spreadsheetCallbacks#readme",
+  "dependencies": {
+    "browserify": "^16.5.0",
+    "gasify": "^1.0.0"
+  }
+}
